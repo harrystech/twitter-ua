@@ -3,19 +3,14 @@ twitter-ua
 
 ##Google Universal Analytics for Twitter
 
-###Welcome to a world where Tweets can be recorded and documented as page views. 
+Welcome to a world where Tweets can be recorded and documented as page views. 
 
 How to use the code:
 
 #####Get your own keys. And UA Tracking ID
 
 Get Twitter Developers Account Here: https://apps.twitter.com/
-Get a UA tracking code on Google Analytics. 
-
-1. Make a Google Analytics account if you don't have one already.
-2. Create a new property. 
-3. Under Google Analytics, Admin you'll be prompted to upgrade to Universal Analytics if you ahven't already done so
-4. Under "Property Settings" there is a Tracking ID (short string that starts with "UA")
+Get a UA tracking code on Google Analytics. (Need to upgrade to Universal Analytics)
 
 #####Set up database (we used Postgresql)
 
