@@ -3,7 +3,7 @@ twitter-ua
 
 ##Google Universal Analytics for Twitter
 
-Welcome to a world where Tweets can be recorded and documented as page views. 
+Welcome to a world where tweets can be recorded and documented as page views. 
 
 How to use the code:
 
@@ -42,4 +42,4 @@ You'll need to create a table named tweets with one column named message of data
 
 If you want to see all your options, see here: https://dev.twitter.com/docs/api/1.1/get/search/tweets
 
-#####deploy to heroku! It will run forever. 
+#####Deploy to heroku! It will run forever. 
